@@ -10,3 +10,7 @@ Esta clase se encarga de la gestión del proceso de carga. A través de el méto
 ### ControlVisualizacion
 
 Esta....
+
+# Diagrama de Clases - UML
+
+![Diagrama de clases](https://github.com/josemoncada87/DCA_Markdown/blob/master/UML.png?raw=true)
